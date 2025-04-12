@@ -32,3 +32,28 @@
 ---
 
 ## 📦 Installation
+1. Open Chrome/Edge → chrome://extensions/
+2. Enable Developer mode
+3. Click Load unpacked
+4. Select the dirfox/ directory
+
+---
+
+🔐 Privacy & Security
+1. All data is stored locally on the user's browser.
+2. No external tracking or telemetry.
+3. No data is ever sent to third-party servers.
+4. Wordlists from GitHub are fetched directly from public repositories when used.
+
+---
+
+🧪 Development
+Pull requests are welcome! If you’d like to contribute, please:
+1. Fork this repo
+2. Create a feature branch
+3. Submit a pull request
+
+---
+
+## 📜 License
+MIT License © 2025 Muhammad Fazriansyah
