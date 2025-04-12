@@ -9,11 +9,6 @@
   Built for penetration testers, bug bounty hunters, and cybersecurity researchers.
 </p>
 
-<p align="center">
-  <img src="images/screenshot.png" alt="Dirfox Screenshot" width="80%">
-</p>
-
-
 ---
 
 ## ✨ Features
