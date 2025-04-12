@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dirfox.png" alt="Dirfox Banner" width="100%">
+  <img src="logo.png" alt="Dirfox Banner" width="100%">
 </p>
 
 # 🔍 DIRFOX - Endpoint Fuzzer for Pentesters
