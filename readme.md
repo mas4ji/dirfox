@@ -1,12 +1,19 @@
 <p align="center">
-  <img src="logo.png" alt="Dirfox Banner" width="100%">
+  <img src="logo.png" alt="Dirfox Logo" width="120">
 </p>
 
-# 🔍 DIRFOX - Endpoint Fuzzer for Pentesters
+<h1 align="center">🔍 DIRFOX - Endpoint Fuzzer for Pentesters</h1>
 
-**DIRFOX** is a lightweight and powerful browser extension for discovering hidden or unlinked endpoints on websites using custom or GitHub-hosted wordlists. Designed for penetration testers, bug bounty hunters, and cybersecurity researchers.
+<p align="center">
+  <b>A lightweight browser extension to discover hidden endpoints using custom or GitHub-hosted wordlists.</b><br>
+  Built for penetration testers, bug bounty hunters, and cybersecurity researchers.
+</p>
 
-![Dirfox Screenshot](images/screenshot.png)
+---
+
+<p align="center">
+  <img src="images/screenshot.png" alt="Dirfox Screenshot" width="80%">
+</p>
 
 
 ---
