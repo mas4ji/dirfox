@@ -39,7 +39,7 @@
 
 ---
 
-##🔐 Privacy & Security
+## 🔐 Privacy & Security
 1. All data is stored locally on the user's browser.
 2. No external tracking or telemetry.
 3. No data is ever sent to third-party servers.
@@ -47,7 +47,7 @@
 
 ---
 
-##🧪 Development
+## 🧪 Development
 Pull requests are welcome! If you’d like to contribute, please:
 1. Fork this repo
 2. Create a feature branch
