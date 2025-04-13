@@ -22,6 +22,7 @@
 
 
 
+
 ## ✨ Features
 
 - 🌐 Fuzz endpoints on the currently active tab
