@@ -9,13 +9,17 @@
   Built for penetration testers, bug bounty hunters, and cybersecurity researchers.
 </p>
 
-<!-- Bagian Coming Soon -->
 <p align="center"><i>Coming Soon: Available at</i></p>
 
 <p align="center">
-  <img src="chrome-icon.png" alt="Google Chrome Extension" width="40" style="margin-right: 10px;">
-  <img src="firefox-icon.png" alt="Firefox Extension" width="40">
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/Firefox%20Add-on-Coming%20Soon-orange?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
+
 
 
 ## ✨ Features
