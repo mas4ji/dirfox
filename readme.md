@@ -11,6 +11,22 @@
 
 ---
 
+
+
+<!-- Bagian Coming Soon -->
+<p align="center"><i>Coming Soon: Available at</i></p>
+
+<p align="center">
+  <img src="chrome-icon.png" alt="Google Chrome Extension" width="40" style="margin-right: 10px;">
+  <img src="firefox-icon.png" alt="Firefox Extension" width="40">
+</p>
+
+
+
+
+
+---
+
 ## ✨ Features
 
 - 🌐 Fuzz endpoints on the currently active tab
