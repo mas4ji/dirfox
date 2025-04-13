@@ -18,9 +18,10 @@
     <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/Firefox%20Add-on-Coming%20Soon-orange?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firefox%20Add-on-Coming%20Soon-orange?style=for-the-badge&logo=firefox-browser&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
