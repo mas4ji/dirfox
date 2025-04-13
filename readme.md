@@ -17,7 +17,6 @@
   <img src="firefox-icon.png" alt="Firefox Extension" width="40">
 </p>
 
----
 
 ## ✨ Features
 
