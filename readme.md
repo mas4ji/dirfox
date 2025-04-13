@@ -9,10 +9,6 @@
   Built for penetration testers, bug bounty hunters, and cybersecurity researchers.
 </p>
 
----
-
-
-
 <!-- Bagian Coming Soon -->
 <p align="center"><i>Coming Soon: Available at</i></p>
 
@@ -20,10 +16,6 @@
   <img src="chrome-icon.png" alt="Google Chrome Extension" width="40" style="margin-right: 10px;">
   <img src="firefox-icon.png" alt="Firefox Extension" width="40">
 </p>
-
-
-
-
 
 ---
 
